@@ -1,4 +1,6 @@
-# assign3
+# assign3 Implements an AVL tree
+
+
 
 ## Purpose
 Implement an AVL tree using the algorithm presented in the Lewis *et al.* textbook. 
